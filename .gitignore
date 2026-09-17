@@ -7,3 +7,4 @@ AnswerKey*
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+Langaha-cleaned.csv
