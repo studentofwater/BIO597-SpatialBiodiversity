@@ -4,4 +4,7 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 AnswerKey*
+# pixi environments
+.pixi/*
+!.pixi/config.toml
 Langaha-cleaned.csv
