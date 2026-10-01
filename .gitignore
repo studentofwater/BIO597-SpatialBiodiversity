@@ -8,3 +8,5 @@ AnswerKey*
 .pixi/*
 !.pixi/config.toml
 Langaha-cleaned.csv
+docs/labs/bioclim
+*.geojson
