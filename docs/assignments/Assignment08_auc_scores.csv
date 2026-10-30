@@ -1,0 +1,4 @@
+evaluation,unweighted_auc,weighted_auc
+All-data model,0.908191637630662,0.9009530320762977
+"Checkerboard (Train on train, evaluate test)",0.6508437848639769,0.6616022178270345
+"Reverse (Train on test, evaluate train)",0.736740113807709,0.7293539199104705
