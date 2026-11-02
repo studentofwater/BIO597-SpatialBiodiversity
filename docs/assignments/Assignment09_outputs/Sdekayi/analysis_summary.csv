@@ -1,0 +1,2 @@
+species,file_stem,vcf,coordinates,bioclim_directory,n_individuals,n_predictors,n_snps,n_contributing,min_call_rate,min_maf,one_per_contig,max_variants,n_estimators,max_level,random_state
+Storeria dekayi,Sdekayi,/home/jovyan/shared/EasternSnakeGenetics/Sdekayi.vcf,/home/jovyan/shared/EasternSnakeGenetics/Sdekayi_coords.txt,/home/jovyan/shared/bioclim,27,19,256,84,0.8,0.05,True,256,100,2,42
